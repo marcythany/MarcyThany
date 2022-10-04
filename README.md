@@ -1,7 +1,7 @@
 ### <h1 align="center">Hi 👋, I'm Marcel, but call me Thany</h1>
 <h3 align="center">Frontend developer from Brazil</h3>
 
-<p dir="auto"><img src="https://pbs.twimg.com/profile_images/1524156795266215938/4uco-Bji_400x400.jpg" alt="thanymoon" height="200" width="200"/></p>
+<p align="center"><img src="https://pbs.twimg.com/profile_images/1524156795266215938/4uco-Bji_400x400.jpg" alt="thanymoon" height="200" width="200"/></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thanymoon&label=Profile%20views&color=0e75b6&style=flat" alt="thanymoon" /> </p>
 
