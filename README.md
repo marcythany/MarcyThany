@@ -14,7 +14,7 @@
 
   
 
-- 🌱 I’m currently learning **SASS, CSS3, Javascript, Bootstrap 5 & Tailwind CSS**
+- 🌱 I’m currently learning **Javascript, Bootstrap 5 & Tailwind CSS**
 
 - 📫 How to reach me **marcel.sobral.br@gmail.com**
 
