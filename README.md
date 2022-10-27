@@ -8,7 +8,7 @@
 
   
 
-<p align="center"><img src="https://pbs.twimg.com/profile_images/1524156795266215938/4uco-Bji_400x400.jpg"  alt="thanymoon"  height="200"  width="200"/></p>
+<p align="center"><img src="https://pbs.twimg.com/profile_images/1524156795266215938/4uco-Bji_400x400.jpg"  alt="marcythany"  height="200"  width="200"/></p>
 <p  align="center">  <img src="https://komarev.com/ghpvc/?username=thanymoon&label=Profile%20views&color=0e75b6&style=flat"  alt="thanymoon" /> </p>
 <p  align="center">  <a href="https://twitter.com/thanymoon"  target="blank"><img src="https://img.shields.io/twitter/follow/thanymoon?logo=twitter&style=for-the-badge"  alt="thanymoon"  /></a>  </p>
 
@@ -27,7 +27,7 @@
 <table align="center" border="0" cellpadding="0" cellspacing="0" style="width:500px">
 	<tbody>
 		<tr>
-			<td align="center"><a href="https://twitter.com/thanymoon"  target="blank"><img align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"  alt="thanymoon"  height="30"  width="40"/><br>Twitter</td>
+			<td align="center"><a href="https://twitter.com/marcythany"  target="blank"><img align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"  alt="thanymoon"  height="30"  width="40"/><br>Twitter</td>
 			<td align="center"><a href="https://linkedin.com/in/thanymoon"  target="blank"><img align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  alt="thanymoon"  height="30"  width="40"  /><br>LinkedIn</a></td>
 			<td align="center"><a href="https://instagram.com/marcethany"  target="blank"><img align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"  alt="marcethany"  height="30"  width="40"  /><br>Instagram </a></td>
 		</tr>
