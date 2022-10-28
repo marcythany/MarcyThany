@@ -27,14 +27,14 @@
 <table align="center" border="0" cellpadding="0" cellspacing="0" style="width:500px">
 	<tbody>
 		<tr>
-			<td align="center"><a href="https://twitter.com/marcythany"  target="blank"><img align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"  alt="thanymoon"  height="30"  width="40"/><br>Twitter</td>
-			<td align="center"><a href="https://linkedin.com/in/thanymoon"  target="blank"><img align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  alt="thanymoon"  height="30"  width="40"  /><br>LinkedIn</a></td>
+			<td align="center"><a href="https://twitter.com/marcythany"  target="blank"><img align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"  alt="marcythany"  height="30"  width="40"/><br>Twitter</td>
+			<td align="center"><a href="https://linkedin.com/in/marcythany"  target="blank"><img align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  alt="marcythany"  height="30"  width="40"  /><br>LinkedIn</a></td>
 			<td align="center"><a href="https://instagram.com/marcethany"  target="blank"><img align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"  alt="marcethany"  height="30"  width="40"  /><br>Instagram </a></td>
 		</tr>
 		<tr>
-			<td align="center"><a href="https://www.behance.net/thanymoon"  target="blank"><img align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg"  alt="thanymoon"  height="30"  width="40" /><br>Behance</a></td>
-			<td align="center"><a href="https://codepen.io/thanymoon"  target="blank"><img align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"  alt="thanymoon"  height="30"  width="40"  /><br>Codepen</a></td>
-			<td align="center"><a href="https://discord.com/users/129680297347252224"  target="blank"><img align="center"  src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/62595384e89d1d54d704ece7_3437c10597c1526c3dbd98c737c2bcae.svg"  alt="thanymoon"  height="30"  width="40"  /><br>Discord</a></td>
+			<td align="center"><a href="https://www.behance.net/marcythany"  target="blank"><img align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg"  alt="marcythany"  height="30"  width="40" /><br>Behance</a></td>
+			<td align="center"><a href="https://codepen.io/marcythany"  target="blank"><img align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"  alt="marcythany"  height="30"  width="40"  /><br>Codepen</a></td>
+			<td align="center"><a href="https://discord.com/users/129680297347252224"  target="blank"><img align="center"  src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/62595384e89d1d54d704ece7_3437c10597c1526c3dbd98c737c2bcae.svg"  alt="marcythany"  height="30"  width="40"  /><br>Discord</a></td>
 		</tr>
 	</tbody>
 </table>
@@ -68,12 +68,12 @@
 
   
 
-<p  align="center"><img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=thanymoon&show_icons=true&locale=en&layout=compact"  alt="thanymoon"  /></p>
+<p  align="center"><img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=marcythany&show_icons=true&locale=en&layout=compact"  alt="marcythany"  /></p>
 
   
 
-<p  align="center">  <img align="center"  src="https://github-readme-stats.vercel.app/api?username=thanymoon&show_icons=true&locale=en"  alt="thanymoon"  /></p>
+<p  align="center">  <img align="center"  src="https://github-readme-stats.vercel.app/api?username=marcythany&show_icons=true&locale=en"  alt="marcythany"  /></p>
 
   
 
-<p  align="center"><img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=thanymoon&"  alt="thanymoon"  /></p>
+<p  align="center"><img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=marcythany&"  alt="marcythany"  /></p>
