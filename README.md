@@ -1,6 +1,6 @@
 
 
-###  <h1 align="center">Hi 👋, I'm Marcel, but call me Thany</h1>
+###  <h1 align="center">Hi 👋, I'm Marcel, but call me Marcy or Thany</h1>
 
   
 
@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **Javascript, React & Tailwind CSS**
 
-- 📫 How to reach me **marcel.sobral.br@gmail.com**
+- 📫 How to reach me **marcythany@gmail.com**
 
   
 
