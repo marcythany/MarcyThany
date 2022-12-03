@@ -14,7 +14,7 @@
 
   
 
-- 🌱 I’m currently learning **Javascript, React & Tailwind CSS**
+- 🌱 I’m currently learning **Typescript, React & Tailwind CSS**
 
 - 📫 How to reach me **marcythany@gmail.com**
 
@@ -29,7 +29,7 @@
 		<tr>
 			<td align="center"><a href="https://twitter.com/marcythany"  target="blank"><img align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"  alt="marcythany"  height="30"  width="40"/><br>Twitter</td>
 			<td align="center"><a href="https://linkedin.com/in/marcythany"  target="blank"><img align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  alt="marcythany"  height="30"  width="40"  /><br>LinkedIn</a></td>
-			<td align="center"><a href="https://instagram.com/marcethany"  target="blank"><img align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"  alt="marcethany"  height="30"  width="40"  /><br>Instagram </a></td>
+			<td align="center"><a href="https://instagram.com/marcythany"  target="blank"><img align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"  alt="marcythany"  height="30"  width="40"  /><br>Instagram </a></td>
 		</tr>
 		<tr>
 			<td align="center"><a href="https://www.behance.net/marcythany"  target="blank"><img align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg"  alt="marcythany"  height="30"  width="40" /><br>Behance</a></td>
