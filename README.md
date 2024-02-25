@@ -30,9 +30,8 @@
 			<td align="center"><a href="https://instagram.com/marcythany"  target="blank"><img align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"  alt="marcythany"  height="30"  width="40"  /><br>Instagram </a></td>
 		</tr>
 		<tr>
-			<td align="center"><a href="https://www.behance.net/marcythany"  target="blank"><img align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg"  alt="marcythany"  height="30"  width="40" /><br>Behance</a></td>
 			<td align="center"><a href="https://codepen.io/marcythany"  target="blank"><img align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"  alt="marcythany"  height="30"  width="40"  /><br>Codepen</a></td>
-			<td align="center"><a href="https://discord.com/users/129680297347252224"  target="blank"><img align="center"  src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/62595384e89d1d54d704ece7_3437c10597c1526c3dbd98c737c2bcae.svg"  alt="marcythany"  height="30"  width="40"  /><br>Discord</a></td>
+			<td align="center"><a href="marcythany"  target="blank"><img align="center"  src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/62595384e89d1d54d704ece7_3437c10597c1526c3dbd98c737c2bcae.svg"  alt="marcythany"  height="30"  width="40"  /><br>Discord</a></td>
 		</tr>
 	</tbody>
 </table>
