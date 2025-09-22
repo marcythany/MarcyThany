@@ -17,37 +17,18 @@
     <td width="50%" valign="top">
       <h3 align="center">SnipLink - URL Shortener</h3>
       <br />
-      <a href="https://snip-link.vercel.app/">
-        <img src="https://via.placeholder.com/400x200.png?text=Your+SnipLink+GIF+Here" alt="SnipLink Project"/>
+      <a href="https://gfgneo.vercel.app/">
+        <img src="https://imgur.com/iBzW1Vv" alt="GFG Project"/>
       </a>
       <br />
       <p align="center">
-        A clean and minimalist URL shortener application built with Next.js and TypeScript. It utilizes the Shadcn/UI component library for a modern look and interacts with an external API to generate short links.
+        GFG is a web application that displays the latest giveaways of games and loots. Stay updated with the latest freebies and never miss out on any exciting game offers again! This project has been modernized from its original vanilla JavaScript implementation to a robust and scalable application using Next.js and Tailwind CSS.
       </p>
       <p align="center">
         <a href="https://snip-link.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+          <img src="https://imgur.com/C1bUrvQ" alt="Live Demo"/>
         </a>
-        <a href="https://github.com/marcythany/SnipLink" target="_blank">
-          <img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/>
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">NexCart Velocity - E-commerce UI</h3>
-      <br />
-      <a href="https://nexcart-velocity.vercel.app/">
-        <img src="https://via.placeholder.com/400x200.png?text=Your+NexCart+GIF+Here" alt="NexCart Velocity Project"/>
-      </a>
-      <br />
-      <p align="center">
-        A modern e-commerce storefront UI, showcasing a responsive product grid and clean design. Built with Next.js, TypeScript, and styled with Tailwind CSS, focusing on a seamless user shopping experience.
-      </p>
-      <p align="center">
-        <a href="https://nexcart-velocity.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
-        </a>
-        <a href="https://github.com/marcythany/nexcart-velocity" target="_blank">
+        <a href="https://marcelsobral-portfolio.vercel.app/" target="_blank">
           <img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/>
         </a>
       </p>
@@ -70,7 +51,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" width="52" alt="nextjs logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" width="52" alt="tailwindcss logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" width="52" alt="tailwindcss logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" width="52" alt="sass logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52" alt="figma logo"  />
