@@ -15,7 +15,7 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">SnipLink - URL Shortener</h3>
+      <h3 align="center">GFG - Game Freebie Grabber</h3>
       <br />
       <a href="https://gfgneo.vercel.app/">
         <img src="https://imgur.com/iBzW1Vv" alt="GFG Project"/>
@@ -25,10 +25,29 @@
         GFG is a web application that displays the latest giveaways of games and loots. Stay updated with the latest freebies and never miss out on any exciting game offers again! This project has been modernized from its original vanilla JavaScript implementation to a robust and scalable application using Next.js and Tailwind CSS.
       </p>
       <p align="center">
-        <a href="https://snip-link.vercel.app/" target="_blank">
-          <img src="https://imgur.com/C1bUrvQ" alt="Live Demo"/>
+        <a href="https://gfgneo.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
         </a>
+        <a href="https://github.com/marcythany/GFG" target="_blank">
+          <img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/>
+        </a>
+      </p>
+    </td>
+        <td width="50%" valign="top">
+      <h3 align="center">Portfolio</h3>
+      <br />
+      <a href="https://marcelsobral-portfolio.vercel.app/">
+        <img src="https://imgur.com/iBzW1Vv" alt="GFG Project"/>
+      </a>
+      <br />
+      <p align="center">
+        A modern, accessible, and bilingual portfolio website built with Next.js 15, featuring a Brazilian-inspired design system and optimized performance.
+      </p>
+      <p align="center">
         <a href="https://marcelsobral-portfolio.vercel.app/" target="_blank">
+         <img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+        </a>
+        <a href="https://github.com/marcythany/portfolio-minimalista" target="_blank">
           <img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/>
         </a>
       </p>
