@@ -1,32 +1,94 @@
-# Hi 👋, I'm Marcel, but you call me Marcy or Thany
+# Hi, I'm Marcel Luis! 👋
 
-## Frontend developer from Brazil
+<p align="left">
+  I'm a Front-End Developer passionate about turning ideas into interactive, intuitive, and visually pleasing interfaces. My journey in programming is driven by curiosity and the challenge of continuously learning, combining the logical reasoning of code with the creativity of design to build the best user experiences.
+</p>
 
-![marcythany](https://komarev.com/ghpvc/?username=marcythany&label=Profile%20views&color=0e75b6&style=flat)
+---
 
-[![marcythany](https://img.shields.io/twitter/follow/marcythany?logo=twitter&style=for-the-badge)](https://twitter.com/marcythany)
+## 🚀 Featured Projects
 
-- 🌱 I’m currently learning **Typescript, React and NextJS**
-- 📫 How to reach me <marcythany@gmail.com>
+<p align="left">
+  I have selected a few projects that showcase my skills in building modern, responsive, and functional web applications.
+</p>
 
-## Social Links
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">SnipLink - URL Shortener</h3>
+      <br />
+      <a href="https://snip-link.vercel.app/">
+        <img src="https://via.placeholder.com/400x200.png?text=Your+SnipLink+GIF+Here" alt="SnipLink Project"/>
+      </a>
+      <br />
+      <p align="center">
+        A clean and minimalist URL shortener application built with Next.js and TypeScript. It utilizes the Shadcn/UI component library for a modern look and interacts with an external API to generate short links.
+      </p>
+      <p align="center">
+        <a href="https://snip-link.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+        </a>
+        <a href="https://github.com/marcythany/SnipLink" target="_blank">
+          <img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">NexCart Velocity - E-commerce UI</h3>
+      <br />
+      <a href="https://nexcart-velocity.vercel.app/">
+        <img src="https://via.placeholder.com/400x200.png?text=Your+NexCart+GIF+Here" alt="NexCart Velocity Project"/>
+      </a>
+      <br />
+      <p align="center">
+        A modern e-commerce storefront UI, showcasing a responsive product grid and clean design. Built with Next.js, TypeScript, and styled with Tailwind CSS, focusing on a seamless user shopping experience.
+      </p>
+      <p align="center">
+        <a href="https://nexcart-velocity.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+        </a>
+        <a href="https://github.com/marcythany/nexcart-velocity" target="_blank">
+          <img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-| -------- | -------- |
-| -------- | -------- |
-| [![twitter](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg)](https://twitter.com/marcythany) | [![linkedin](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/marcythany) |
-| [![instagram](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg)](https://instagram.com/marcythany) |[![discord](https://assets-global.website-files.com/6257adef93867e50d84d30e2/62595384e89d1d54d704ece7_3437c10597c1526c3dbd98c737c2bcae.svg)](marcythany) |
+---
 
-## Tech Stack
+## 🛠️ My Tech Stack
 
-| --------  | --------  | --------  |
-| --------  | --------  | --------  |
-|[![html5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)](https://www.w3.org/html/) | [![css3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)](https://www.w3schools.com/css/) | [![javascript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) |
-| [![typescript](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg)](https://www.typescriptlang.org/) | [![nodejs](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg)](https://nodejs.org/)  | [![React](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg)](https://react.dev/)  |
-| [![astro](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original-wordmark.svg)](https://astro.build/) |[![NextJS](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg)](https://nextjs.org/) | [![tailwind](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg)](https://tailwindcss.com/) |
-| [![blender](https://download.blender.org/branding/community/blender_community_badge_white.svg)](https://www.blender.org/) | [![figma](https://www.vectorlogo.zone/logos/figma/figma-icon.svg)](https://www.figma.com/) | [![photoshop](https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg)](https://www.photoshop.com/) |
+<p align="left">
+  These are the technologies and tools I am most familiar with and have been using to build my projects.
+</p>
 
-![marcythany](https://github-readme-stats.vercel.app/api/top-langs?username=marcythany&show_icons=true&locale=en&layout=compact)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" width="52" alt="nextjs logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" width="52" alt="tailwindcss logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" width="52" alt="sass logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52" alt="figma logo"  />
+</div>
 
-![marcythany](https://github-readme-stats.vercel.app/api?username=marcythany&show_icons=true&locale=en)
+---
 
-![marcythany](https://github-readme-streak-stats.herokuapp.com/?user=marcythany&)
+## 📫 Let's Connect!
+
+<p align="left">
+  I'm currently seeking my first opportunity as a Front-End Developer and would love to collaborate on challenging projects. If you like my work, please feel free to get in touch!
+</p>
+
+<div align="left">
+  <a href="mailto:marcythany@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/marcythany/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</div>
